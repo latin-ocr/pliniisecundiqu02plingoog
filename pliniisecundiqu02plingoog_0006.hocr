@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pliniisecundiqu02plingoog_0006.png"; bbox 0 0 2416 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 78 1207 1093 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 78 1126 1093 1552">
+     <span class='ocr_line' id='line_1_1' title="bbox 78 1207 1093 1332; baseline 0 -23"><span class='ocrx_word' id='word_1_1' title='bbox 78 1210 324 1309; x_wconf 87' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_2' title='bbox 373 1207 696 1308; x_wconf 75' lang='lat' dir='ltr'><strong>SECUNDI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 746 1209 1093 1332; x_wconf 81' lang='lat' dir='ltr'>IUNIORIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 365 1448 826 1552; baseline 0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 365 1468 446 1551; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 488 1448 826 1552; x_wconf 72' lang='lat' dir='ltr'><strong>MEDICINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 474 1740 813 1818">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 474 1740 813 1818">
+     <span class='ocr_line' id='line_1_3' title="bbox 474 1740 813 1818; baseline 0.009 -2"><span class='ocrx_word' id='word_1_6' title='bbox 474 1764 571 1818; x_wconf 74' lang='lat' dir='ltr'><strong>mssffl</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 599 1763 699 1818; x_wconf 73' lang='lat' dir='ltr'>TRES.</span> <span class='ocrx_word' id='word_1_8' title='bbox 812 1740 813 1743; x_wconf 53' lang='lat'>‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1212 3900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1212 3900">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1212 3900; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1212 3900; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
